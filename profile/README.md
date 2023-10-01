@@ -24,7 +24,7 @@ Welcome to the PBS Cybersecurity Club, where we are dedicated to exploring the e
 </th>
 </tr>
 <tr>
-<th> <a href="https://pbscybsec.github.io/ctf">CTF</a> </th>
+<th> <a href="https://pbscybsec.github.io/play_ctf.html">CTF</a> </th>
 <th> <img src="https://circleci.com/gh/circleci/circleci-docs.svg?style=svg"> </th>
 <th> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />

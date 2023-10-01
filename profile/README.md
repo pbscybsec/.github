@@ -2,23 +2,75 @@
 Welcome to the PBS Cybersecurity Club, where we are dedicated to exploring the exciting world of cybersecurity and cultivating a community of passionate individuals who are committed to protecting digital spaces. <br>Our club thrives on the collective knowledge and expertise of our diverse members, and we'd like to introduce you to some of the key individuals who make up our vibrant community:
 
 
+
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pbscybsec) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pbscybsec&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pbscybsec&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pbscybsec&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pbscybsec)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Server Status
+<table>
+<tr>
+<td> <b>Server</b> </td>
+<td> <b>Status</b> </td>
+<td> <b>Stacks</b> </td>
+</tr>
+<tr>
+<th> <a href="https://pbscybsec.github.io">Website</a> </th>
+<th> <img src="https://github.com/pbscybsec/pbscybsec.github.io/actions/workflows/pages/pages-build-deployment/badge.svg"> </th>
+<th>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="bootstrap logo"  />
+</th>
+</tr>
+<tr>
+<th> <a href="https://pbscybsec.github.io/ctf">CTF</a> </th>
+<th> <img src="https://circleci.com/gh/circleci/circleci-docs.svg?style=svg"> </th>
+<th> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+</th>
+</tr>
+<tr>
+<th> <a href="https://pbscybsec.github.io/ctf">HackThis</a> </th>
+<th> <img src="https://circleci.com/gh/circleci/circleci-docs.svg?style=svg"> </th>
+<th> 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="er" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="circleci logo"  />
+<img src="https://cdn.simpleicons.org/nginx/009639" height="40"  width="40"/>
+</th>
+</tr>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pbscybsec&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<tr>
+<th> <a href="https://pbscybsec.vercel.app">Member Portal</a> </th>
+<th> <img src="https://camo.githubusercontent.com/a70de9d9c7dd091bdd930cc1ddd918556f89d949736a54c320c8d97f8a6299e6/68747470733a2f2f76657263656c62616467652e76657263656c2e6170702f6173736574732f666c61742f70617373696e672e737667"> </th>
+<th>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+</th>
+</tr>
+<tr>
+<th> <a href="https://pbscybsec.github.io/Badges/">Badges</a></th>
+<th> <img src="https://github.com/pbscybsec/pbscybsec.github.io/actions/workflows/pages/pages-build-deployment/badge.svg"> </th>
+<th>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="circleci logo"  />
+<img src="https://jekyllrb.com/img/logo-2x.png" height="40" alt="circleci logo"  />
+</th>   
+</tr>
+<tr>
+<th> <a href="#">Member Management System</a> </th>
+<th> <img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg"> </th>
+<th>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+<img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" height="40" alt="circleci logo"  />
+</th>
+</table> 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=pbscybsec&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  
+ 
+   
+   
+ 

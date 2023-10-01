@@ -32,7 +32,7 @@ Welcome to the PBS Cybersecurity Club, where we are dedicated to exploring the e
 </th>
 </tr>
 <tr>
-<th> <a href="https://pbscybsec.github.io/ctf">HackThis</a> </th>
+<th> <a href="https://www.hackerrank.com/hackthis-1">HackThis</a> </th>
 <th> <img src="https://circleci.com/gh/circleci/circleci-docs.svg?style=svg"> </th>
 <th> 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="er" height="30" width="40" />

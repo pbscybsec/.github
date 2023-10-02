@@ -61,7 +61,7 @@ Welcome to the PBS Cybersecurity Club, where we are dedicated to exploring the e
 </th>   
 </tr>
 <tr>
-<th> <a href="o.p">Member Management System</a> </th>
+<th> <a href="https://mem.pbsgala.repl.co/students">Member Management System</a> </th>
 <th> <img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg"> </th>
 <th>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>

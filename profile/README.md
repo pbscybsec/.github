@@ -68,6 +68,11 @@ Welcome to the PBS Cybersecurity Club, where we are dedicated to exploring the e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" height="40" alt="circleci logo"  />
 </th>
+ <tr>
+  <th>CybSec News Portal</th>
+  <th></th>
+  <th></th>
+ </tr>
 </table> 
 
   

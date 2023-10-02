@@ -69,7 +69,7 @@ Welcome to the PBS Cybersecurity Club, where we are dedicated to exploring the e
 <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" height="40" alt="circleci logo"  />
 </th>
  <tr>
-  <th>CybSec News Portal</th>
+  <th> <a href="#">CybSec News Portal</a></th>
   <th></th>
   <th></th>
  </tr>

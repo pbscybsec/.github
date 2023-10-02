@@ -64,6 +64,8 @@ Welcome to the PBS Cybersecurity Club, where we are dedicated to exploring the e
 <th> <a href="o.p">Member Management System</a> </th>
 <th> <img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg"> </th>
 <th>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="circleci logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" height="40" alt="circleci logo"  />

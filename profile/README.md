@@ -45,9 +45,11 @@ Welcome to the PBS Cybersecurity Club, where we are dedicated to exploring the e
 <th> <a href="https://pbscybsec.vercel.app">Member Portal</a> </th>
 <th> <img src="https://camo.githubusercontent.com/a70de9d9c7dd091bdd930cc1ddd918556f89d949736a54c320c8d97f8a6299e6/68747470733a2f2f76657263656c62616467652e76657263656c2e6170702f6173736574732f666c61742f70617373696e672e737667"> </th>
 <th>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </th>
 </tr>
 <tr>

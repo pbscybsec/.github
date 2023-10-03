@@ -74,6 +74,13 @@ Welcome to the PBS Cybersecurity Club, where we are dedicated to exploring the e
   <th> <img src="https://img.shields.io/badge/Status-building-red?style=flat-square"> </th>
   <th></th>
  </tr>
+ <tr>
+  <th>
+   <a href="#">Red Vs Blue Team Simulation</a>
+  </th>
+  <th> <img src="https://img.shields.io/badge/Status-building-red?style=flat-square"> </th>
+  <th></th>
+ </tr>
 </table> 
 
   

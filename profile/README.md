@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 Welcome to the PBS Cybersecurity Club, where we are dedicated to exploring the exciting world of cybersecurity and cultivating a community of passionate individuals who are committed to protecting digital spaces. <br>Our club thrives on the collective knowledge and expertise of our diverse members, and we'd like to introduce you to some of the key individuals who make up our vibrant community:
 
 
